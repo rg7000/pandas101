@@ -1,0 +1,5 @@
+2 main data struct in pandas are:
+ - Series (1D)
+ - Data Frame (2D)
+
+built on top of numpy
